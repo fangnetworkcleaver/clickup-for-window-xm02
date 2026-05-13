@@ -1,4 +1,4 @@
-# 
+# Enhance ClickUp for Windows with automatic ClickUp for Windows Helper | priority-levels + template-library, the #1 helper. Includes priority-levels and template-library for a
 
 
 
